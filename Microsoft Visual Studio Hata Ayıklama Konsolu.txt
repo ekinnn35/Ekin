@@ -1,0 +1,5 @@
+Ekin OZTURK Patika Bootcamp'inde olma nedenim, yillarca isteyip asla firsat yaratamamis olmam ve Patika Bootcamp'e guveniyor olusum!
+
+C:\Users\ekin_\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.exe (11320 islemi), 0 koduyla çıkıs yaptı (0x0).
+Hata ayıklama durdugunda konsolu otomatik olarak kapatmak için Araçlar->Seçenekler->Hata Ayıklama->Hata ayıklama durdugunda konsolu otomatik olarak kapat seçenegini etkinlestirin
+Bu pencereyi kapatmak için herhangi bir tusa basın...
